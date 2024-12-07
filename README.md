@@ -56,7 +56,7 @@ This project features an interactive Power BI dashboard that visualizes key insi
 ## 📸 **Dashboard Preview**  
 Here’s a preview of the interactive Power BI dashboard:  
 
-![Dashboard Preview](images/Dashboard.png)  
+![Dashboard Preview](Dashboard.png)  
 
 *Note: For a full interactive experience, download the `.pbix` file and view it in Power BI Desktop.* 
 

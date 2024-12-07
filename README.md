@@ -47,6 +47,7 @@ This project features an interactive Power BI dashboard that visualizes key insi
 ### 📊 **8️⃣ Preferred Industries**
 - **Insight**: Data professionals are primarily employed in **Finance, Technology, and Healthcare** sectors.  
 - **Impact**: This helps job seekers understand which industries offer the most opportunities for data-related roles.  
+---
 
 ## 📁 **Project Files**  
 - **Data Professional Dashboard.pbix**: The main Power BI dashboard file.  
